@@ -6,4 +6,4 @@ The exercises show how to create embeddings out of text and explore the vector s
 
 The data used in the exercise is extracted from [DharmaOverground](https://www.dharmaoverground.org/discussion/-/message_boards/category/2658626), a meditation-related forum.
 
-Authors of the notebook are Teodora Vukovic and Tilia Ellendorf.
+Authors of the notebook are Tilia Ellendorf and Teodora Vukovic.
